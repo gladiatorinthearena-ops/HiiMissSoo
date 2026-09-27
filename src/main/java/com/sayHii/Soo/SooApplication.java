@@ -1,0 +1,13 @@
+package com.sayHii.Soo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SooApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SooApplication.class, args);
+	}
+
+}
